@@ -8,6 +8,6 @@
     * is able to classify rods from other kind of blobs that could appear
     * the system works also with noise that iron powder could bring
 
-An processed image example:    
+A processed image example:    
     
 ![Image description](https://github.com/Pptr95/connecting-rods/blob/master/example.png)
